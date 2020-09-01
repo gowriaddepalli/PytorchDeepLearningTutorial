@@ -8,4 +8,14 @@ Trying to experiment few concepts in deep learning using pytorch:
    : https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77 \
    : https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d. \
    : https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch. \
-   : https://github.com/oscarknagg/few-shot. 
+   : https://github.com/oscarknagg/few-shot.
+ - Performance Analysis Of Various Activation Functions On Different Architectures
+   List of activation functions used:
+   : Tanh
+   : ReLu
+   : Sigmoid
+   Comparison of various activation functions on the following Neural Network Architectures:\
+   : MultiLayerPerceptron / FeedForward Neural Network
+   : Convolution Neural Network
+   : Recurrent Neural Network
+   : Autoencoders
