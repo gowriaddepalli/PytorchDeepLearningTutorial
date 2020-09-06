@@ -9,6 +9,7 @@ Trying to experiment few concepts in deep learning using pytorch:
    : https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d. \
    : https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch. \
    : https://github.com/oscarknagg/few-shot.
+   : https://www.youtube.com/watch?v=hE7eGew4eeg&feature=youtu.be
  - Performance Analysis Of Various Activation Functions On Different Architectures\
    List of activation functions used: \
    : Tanh \
