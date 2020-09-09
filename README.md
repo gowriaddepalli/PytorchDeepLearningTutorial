@@ -20,3 +20,4 @@ Trying to experiment few concepts in deep learning using pytorch:
    : Convolution Neural Network \
    : Recurrent Neural Network \
    : Autoencoders 
+  - Classification using BERT
